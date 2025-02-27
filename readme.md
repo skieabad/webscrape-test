@@ -34,5 +34,4 @@ The About Page (`about/index.html`) includes:
 
 ## Website URL
 
-You can access the website at the following URL:  
-[Simple Website for Web Scraping Testing](https://skieabad.github.io/webscrape-test/)
+You can access the website at the following URL: [Simple Website for Web Scraping Testing](https://skieabad.github.io/webscrape-test/)
