@@ -31,3 +31,8 @@ The About Page (`about/index.html`) includes:
 - A navigation bar with links to the Home and About pages.
 - Information about the website and its purpose.
 - Placeholder text for testing content extraction.
+
+## Website URL
+
+You can access the website at the following URL:  
+[Simple Website for Web Scraping Testing](https://skieabad.github.io/webscrape-test/)
